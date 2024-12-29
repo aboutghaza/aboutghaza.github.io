@@ -13,8 +13,9 @@ mode: dark # default theme "dark" | "light"
 author:
   name: About Ghaza # author name
   bio: >- # tell to the world
-    Saya <a href="https://instagram.com/itsghaza_" target="_blank" rel="noopener">Ghaza Algifari</a>, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
+    Saya <a href="https://instagram.com/itsghaza_" target="_blank" rel="noopener">Ghaza Algifari</a>, lebih banyak yang memanggil Ghaza. sipaling freelance, 
+    dan pura-pura pinter. 
+    Jarang bisa hidup tanpa Gudang Garam, dan sering kali punya ide-ide gila yang akan diubah menjadi hal-hal yang keren—kadang berantakan..
   username: username # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
